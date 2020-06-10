@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SystemPro.Api",
+    "\\SystemPro.Api\\Responses",
+    "\\SystemPro.Core",
+    "\\SystemPro.Core\\Interfaces",
+    "\\SystemPro.Infrastructure",
+    "\\SystemPro.Infrastructure\\Data",
+    "\\SystemPro.Infrastructure\\Filters",
+    "\\SystemPro.Infrastructure\\Mappings",
+    "\\SystemPro.Infrastructure\\Validators"
+  ],
+  "SelectedNode": "\\SystemPro.Api\\Controllers\\UserController.cs",
+  "PreviewInSolutionExplorer": false
+}

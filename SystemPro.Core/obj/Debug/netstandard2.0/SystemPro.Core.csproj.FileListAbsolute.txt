@@ -1,0 +1,9 @@
+C:\FullStack\RestFull\SystemPro\SystemPro.Core\bin\Debug\netstandard2.0\SystemPro.Core.deps.json
+C:\FullStack\RestFull\SystemPro\SystemPro.Core\bin\Debug\netstandard2.0\SystemPro.Core.dll
+C:\FullStack\RestFull\SystemPro\SystemPro.Core\bin\Debug\netstandard2.0\SystemPro.Core.pdb
+C:\FullStack\RestFull\SystemPro\SystemPro.Core\obj\Debug\netstandard2.0\SystemPro.Core.csproj.CoreCompileInputs.cache
+C:\FullStack\RestFull\SystemPro\SystemPro.Core\obj\Debug\netstandard2.0\SystemPro.Core.AssemblyInfoInputs.cache
+C:\FullStack\RestFull\SystemPro\SystemPro.Core\obj\Debug\netstandard2.0\SystemPro.Core.AssemblyInfo.cs
+C:\FullStack\RestFull\SystemPro\SystemPro.Core\obj\Debug\netstandard2.0\SystemPro.Core.dll
+C:\FullStack\RestFull\SystemPro\SystemPro.Core\obj\Debug\netstandard2.0\SystemPro.Core.pdb
+C:\FullStack\RestFull\SystemPro\SystemPro.Core\obj\Debug\netstandard2.0\SystemPro.Core.csprojAssemblyReference.cache

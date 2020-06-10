@@ -1,0 +1,12 @@
+C:\FullStack\RestFull\SystemPro\SystemPro.Infrastructure\bin\Debug\netstandard2.0\SystemPro.Infrastructure.deps.json
+C:\FullStack\RestFull\SystemPro\SystemPro.Infrastructure\bin\Debug\netstandard2.0\SystemPro.Infrastructure.dll
+C:\FullStack\RestFull\SystemPro\SystemPro.Infrastructure\bin\Debug\netstandard2.0\SystemPro.Infrastructure.pdb
+C:\FullStack\RestFull\SystemPro\SystemPro.Infrastructure\bin\Debug\netstandard2.0\SystemPro.Core.dll
+C:\FullStack\RestFull\SystemPro\SystemPro.Infrastructure\bin\Debug\netstandard2.0\SystemPro.Core.pdb
+C:\FullStack\RestFull\SystemPro\SystemPro.Infrastructure\obj\Debug\netstandard2.0\SystemPro.Infrastructure.csprojAssemblyReference.cache
+C:\FullStack\RestFull\SystemPro\SystemPro.Infrastructure\obj\Debug\netstandard2.0\SystemPro.Infrastructure.csproj.CoreCompileInputs.cache
+C:\FullStack\RestFull\SystemPro\SystemPro.Infrastructure\obj\Debug\netstandard2.0\SystemPro.Infrastructure.AssemblyInfoInputs.cache
+C:\FullStack\RestFull\SystemPro\SystemPro.Infrastructure\obj\Debug\netstandard2.0\SystemPro.Infrastructure.AssemblyInfo.cs
+C:\FullStack\RestFull\SystemPro\SystemPro.Infrastructure\obj\Debug\netstandard2.0\SystemPro.Infrastructure.csproj.CopyComplete
+C:\FullStack\RestFull\SystemPro\SystemPro.Infrastructure\obj\Debug\netstandard2.0\SystemPro.Infrastructure.dll
+C:\FullStack\RestFull\SystemPro\SystemPro.Infrastructure\obj\Debug\netstandard2.0\SystemPro.Infrastructure.pdb
